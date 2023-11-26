@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
-import "../Style/task4.css"
+import "../Style/Task4.css"
+
 let img1 = "https://www.91-cdn.com/hub/wp-content/uploads/2022/12/Apple-Products-expected-to-launch-in-2023.png"
 let img2 = "https://www.91-cdn.com/hub/wp-content/uploads/2023/11/POCO-F5.jpg"
 let img3 = "https://www.91-cdn.com/hub/wp-content/uploads/2023/11/vivo-v29e-international-2.jpg"
